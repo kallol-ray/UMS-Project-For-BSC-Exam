@@ -1,0 +1,455 @@
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.pdb
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Owin.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\WebGrease.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Owin.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\UniversityManagementApp.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Owin.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\WebGrease.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Helpers.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Mvc.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Optimization.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.Razor.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Newtonsoft.Json.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\UniversityManagementApp.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\UniversityManagementApp.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Antlr3.Runtime.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Newtonsoft.Json.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Owin.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Helpers.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Mvc.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Optimization.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Razor.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\WebGrease.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Helpers.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Mvc.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Optimization.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Razor.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Newtonsoft.Json.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\itextsharp.dll
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\RazorPDF.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\UniversityManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\UniversityManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\itextsharp.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Owin.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\RazorPDF.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Rotativa.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\RAKIB\FINAL PROJECT_26_01_2016_03_50_PM\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+F:\RAKIB WEBBASED WORK FILE\FINAL PROJECT\UniversityManagementApp\bin\Rotativa.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\UniversityManagementApp.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\UniversityManagementApp.pdb
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Antlr3.Runtime.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\itextsharp.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Newtonsoft.Json.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Owin.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\RazorPDF.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Rotativa.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Helpers.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Mvc.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Optimization.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Razor.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\WebGrease.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Helpers.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Mvc.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Optimization.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.Razor.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Newtonsoft.Json.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BITM TRAINING\FINAL PROJECT\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\UniversityManagementApp.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\UniversityManagementApp.pdb
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\itextsharp.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Owin.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\RazorPDF.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Rotativa.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Helpers.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Mvc.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Optimization.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Razor.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\WebGrease.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Helpers.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Mvc.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Optimization.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Razor.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+C:\Users\KALLOL RAY\Desktop\FINAL PROJECT_30_01_2016\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\UniversityManagementApp.dll.config
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\UniversityManagementApp.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\UniversityManagementApp.pdb
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\itextsharp.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Owin.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\RazorPDF.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Rotativa.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Helpers.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Mvc.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Optimization.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Razor.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\WebGrease.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Helpers.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Mvc.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Optimization.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.Razor.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\obj\Debug\UniversityManagementApp.dll
+C:\Users\KALLOL RAY\Desktop\Desktop 2\FINAL PROJECT_30_01_2016\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb

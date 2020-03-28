@@ -1,0 +1,155 @@
+﻿
+
+@{
+    ViewBag.Title = "Save";
+}
+
+<style>
+    label.error {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+<div class="wrapper">
+    <form id="allocateClassRoomForm" method="POST">
+        <fieldset class="main_form">
+            <legend>Enroll In a Course</legend>
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Student Reg.No</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="StudentId" name="StudentId">
+                        @{
+                            <option value=""> Select Student Reg. No....</option>
+                            foreach (var aStudent in @ViewBag.StudentList)
+                            {
+                                <option value=@aStudent.Id> @aStudent.StudentRegNo</option>
+                            }
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Name</label>
+                <div class="col-md-9">
+                    <input type="text" id="Name" name="Name" class="form-control" placeholder="<View>"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">Email</label>
+                <div class="col-md-9">
+                    <input type="text" id="Email" name="Email" class="form-control" placeholder="<View>" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Department</label>
+                <div class="col-md-9">
+
+                    <input type="text" id="Department" name="Department" class="form-control" placeholder="<View>" />
+
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Select Course</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="CourseId" name="CourseId">
+                        @{
+                            <option value=""> Select Course....</option>
+                            @*foreach (var aDepartment in @ViewBag.DepartmentList)
+                {
+                    <option value=@aDepartment.Code> @aDepartment.Name</option>
+                }*@
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">Date</label>
+                <div class="col-md-9">   
+                    <input type="text" id="Date" name="Date" class="form-control Date" placeholder="@DateTime.Now.Date.ToShortDateString()" />
+                </div>
+            </div>
+
+
+
+            <div class="form-group">
+                <div class="col-md-12 text-right">
+                    <button id="saveButton" type="submit" value="Save" class="btn btn-primary btn-lg">Enroll</button>
+                </div>
+            </div>
+            <div class="show_msg"><label>@ViewBag.Message</label></div>
+        </fieldset>
+    </form>
+</div>
+
+
+
+@section scripts
+{
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />  
+    <script src="~/Scripts/jquery-ui.min.js"></script>
+    
+    <script type="text/javascript">
+           var j = jQuery.noConflict();
+           j(document).ready(function () {
+               j('.Date').datepicker({ dateFormat: "dd-mm-yy" });
+           });
+    </script>
+
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#StudentId").change(function () {
+                var id = $("#StudentId").val();
+                var json = { studentId: id };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetDetailsByStudentId", "EnrollCourse")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (studentAndCourses) {
+                        $('#Name').empty();
+                        $('#Email').empty();
+                        $('#Department').empty();
+                       
+                        $.each(studentAndCourses.studentDetails, function (key, value) {
+                            $("#Name").val(value.Name);
+                            $("#Email").val(value.Email);
+                            $("#Department").val(value.DepartmentName);
+                        });
+                        $("#Name").focus(function () {$(this).blur();});
+                        $("#Email").focus(function () { $(this).blur(); });
+                        $("#Department").focus(function () { $(this).blur(); });
+
+                        $('#CourseId').empty();
+                        $("#CourseId").append('<option value="">' + "Select Course....." + '</option>');
+                        $.each(studentAndCourses.courseOfDepartment, function (key, value) {
+                            $("#CourseId").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+                        });
+                    },
+                });
+            });
+
+            $("#allocateClassRoomForm").validate({
+                rules: {
+                    StudentId: { required: true, },
+                    Date: "required",
+                    CourseId: "required",
+                },
+                messages: {
+                    StudentId: { required: "Please select registration no", },
+                    Date: { required: "Please select date", },
+                    CourseId: { required: "Please select course" }
+                }
+            });
+        });
+
+
+    </script>
+
+}

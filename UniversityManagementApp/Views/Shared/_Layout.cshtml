@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - UMS BIST</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header col-md-2 col-sm-2">
+                <a href="#"><img class="img-responsive logo" src="~/images/logoO.gif" /></a>
+                               
+            </div>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="col-md-10 col-sm-10">
+                <div class="navbar-collapse collapse ">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Department <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Save Department", "Save", "Department")</li>
+                                <li>@Html.ActionLink("View Department", "ViewDepartment", "Department")</li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Course &amp; Teacher <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Save Course", "Save", "Course")</li>
+                                <li>@Html.ActionLink("Save Teacher", "Save", "Teacher")</li>
+                                <li>@Html.ActionLink("Course Assign To Techer", "Index", "CourseAssign")</li>
+                                <li>@Html.ActionLink("Course View", "Index", "CourseView")</li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Allocation &amp; Schedule<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Allocate Classrooms", "Index", "AllocateClassRoom")</li>
+                                <li>@Html.ActionLink("Class Schedule View", "Index", "ClassScheduleView")</li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Student<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Register Student", "Index", "Student")</li>
+                                <li>@Html.ActionLink("Enroll In A Course", "Index", "EnrollCourse")</li>
+                                <li>@Html.ActionLink("Save Result", "Index", "StudentResult")</li>
+                                <li>@Html.ActionLink("View Result", "Index", "ViewResult")</li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Unassign<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Unassign All Course", "UnAssignAllCourses", "CourseAssign")</li>
+                                <li>@Html.ActionLink("Unallocate All Classroom", "UnallocateAllClassRomm", "AllocateClassRoom")</li>
+                            </ul>
+                        </li>
+
+
+
+                    </ul>
+                    @*@Html.Partial("_LoginPartial")*@
+                </div>
+            </div> 
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - BIST all right reserved of this ASP.NET Application.</p>
+        </footer>
+    </div>    
+    
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    
+
+</body>
+</html>

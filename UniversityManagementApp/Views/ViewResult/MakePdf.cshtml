@@ -1,0 +1,91 @@
+﻿@using UniversityManagementApp.Models
+@{
+    ViewBag.Title = "Save";
+    Layout = null;
+    List<RegisterStudentModel> arRegisterStudentModel = ViewBag.studentDetails;
+    List<CourseModels> aCourseModels = ViewBag.result;
+    var i = 1;
+}
+<table align="center"  style="width: 700px;">
+    
+    <tr>
+        <td colspan="4" align="center"><img src="~/images/logo.jpg"  width="120" height="40"/><h2><b>Smart University Of Bangladesh</b></h2>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center"><h3 style="font-style: italic; text-decoration: underline;">Student Result Card </h3></td>
+    </tr>
+    
+    <tr>
+        <td colspan="4" align="right"><b style="color: black">Print Date  :  @DateTime.Now.Date.ToShortDateString() </b></td>
+    </tr>
+    <tr>
+        <td colspan="4" align="right"></td>
+    </tr>
+
+
+    @foreach (var x in arRegisterStudentModel)
+    {
+        <tr>
+            <td style ="width: 100px;"></td>
+            <td style="width: 150px;"><b>Registration No.</b></td>
+            <td>:</td>
+            <td style="width: 350px;" align="left">@x.StudentRegNo</td>
+        </tr>
+
+        <tr>
+            <td style="width: 100px;"></td>
+            <td style="width: 150px;"><b>Name</b></td>
+            <td>:</td>
+            <td style="width: 350px;" align="left">@x.Name</td>
+        </tr>
+        <tr>
+            <td style="width: 100px;"></td>
+            <td style="width: 150px;"><b>Email</b></td>
+            <td>:</td>
+            <td style="width: 350px;" align="left">@x.Email</td>
+        </tr>
+        <tr>
+            <td style="width: 100px;"></td>
+            <td style="width: 150px;"><b>Department</b></td>
+            <td>:</td>
+            <td style="width: 350px;" align="left">@x.DepartmentName</td>
+        </tr>
+
+        <tr><td colspan="4"><br /><br /></td></tr>
+
+    }   
+</table>
+
+
+
+<table align="center" style="width: 750px; border: 1px solid cornflowerblue">
+    <tr style="background-color: azure;">
+        <th align="center">SL#</th>
+        <th align ="center">Course Code</th>
+        <th align="left">Name</th>
+        <th align="center">Grade</th>
+        <tr><td colspan="4"><hr/></td></tr>
+        @foreach (var aDepartment in @aCourseModels)
+        {
+            int j = i++;
+        <tr>
+            <td style="width: 100px;" align="center">@j</td>
+            <td style="width: 200px;" align="center">@aDepartment.Code</td>
+            <td style="width: 300px;" align="left">@aDepartment.Name</td>
+            <td style="width: 150px;" align="center">@aDepartment.Description</td>
+
+        </tr>
+        }
+    </table>
+
+
+
+
+
+
+
+
+
+
+

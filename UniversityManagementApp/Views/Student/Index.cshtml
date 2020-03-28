@@ -1,0 +1,178 @@
+﻿@{
+    ViewBag.Title = "Register Student";
+}
+
+<style>
+    label.error {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+
+<div class="wrapper">
+    <form id="RegisterStudentForm" method="POST">
+        <fieldset class="main_form">
+            <legend>Register Student</legend>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Name</label>
+                <div class="col-md-9">
+                    <input id="Name" type="text" name="Name" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Email</label>
+                <div class="col-md-9">
+                    <input id="Email" type="email" name="Email" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Contact No</label>
+                <div class="col-md-9">
+                    <input id="ContactNo" type="text" name="ContactNo" class="form-control" maxlength="14">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Date</label>
+                <div class="col-md-9">
+                    <input id="DateTime" name="DateTime" type="text" class="form-control datetimepicker" placeholder="@DateTime.Now.Date.ToShortDateString()" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Address</label>
+                <div class="col-md-9">
+                    <textarea class="form-control" id="Address" rows="5" cols="20" name="Address"></textarea>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">Department</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="departmentCode" name="departmentCode">
+                        @{
+                            <option value=""> Select Department....</option>
+                            foreach (var aDepartment in @ViewBag.DepartmentList)
+                            {
+                                <option value=@aDepartment.Code> @aDepartment.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-12 text-right">
+                    <button id="saveButton" type="submit" value="Save" class="btn btn-primary btn-lg">Save</button>
+                </div>
+            </div>
+            <div class="show_msg"><label>@ViewBag.Message</label></div>
+        </fieldset>
+    </form>
+</div>
+
+
+
+
+
+@section scripts
+{
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+    var j = jQuery.noConflict();
+    j(document).ready(function () {
+        j('.datetimepicker').datepicker({ dateFormat: "dd-mm-yy" });
+    });
+</script>
+
+
+
+
+    
+    
+
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#RegisterStudentForm").validate({
+                rules: {
+                    Name:
+                             {
+                                 required: true
+                             },
+                             Email: {
+                                 required: true,
+                                 email: true
+                             },
+                             ContactNo:
+                             {
+                                 required: true,
+                                 //minlength: 8
+                             },
+
+                             departmentCode:
+                             {
+                                 required: true,
+
+                             },
+                             DateTime:
+                            {
+                                required: true,
+
+                            },
+
+                             Address:
+                             {
+                                 required: true
+
+                             }
+
+                         },
+                messages:
+                {
+                    Name: "Name is Rquired",
+                    Email:
+                        {
+                            required: "Email is Rquired",
+                            email: "Provide a valid Email Address"
+                        },
+                    ContactNo:
+                    {
+                        required: "Phone number is Required"
+                    },
+
+                    departmentCode: {
+                        required: "Please Select a Department",
+                    },
+                    DateTime: {
+                        required: "Please Select a  Date"
+                    },
+
+                    Address: {
+                        required: "Address is Required",
+                    }
+                }
+
+            });
+            $("#Name").bind('keyup input', function () {
+                if (this.value.match(/[^a-zA-Z áéíóúÁÉÍÓÚüÜ]/g)) {
+                    this.value = this.value.replace(/[^a-zA-Z áéíóúÁÉÍÓÚüÜ]/g, '');
+                }
+            });
+            $("#ContactNo").bind('keyup input', function () {
+                if (this.value.match(/[^0-9+]/g)) {
+                    this.value = this.value.replace(/[^0-9+]/g, '');
+                }
+            });
+
+
+        });
+    </script>
+}
+
+
+
+
+
+

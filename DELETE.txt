@@ -1,0 +1,8 @@
+DELETE FROm t_AllocateClassrooms
+DELETE FROm t_AssignCourse
+DELETE FROm t_Course
+DELETE FROm t_Department
+DELETE FROm t_EnrolledCourses
+DELETE FROm t_Result
+DELETE FROm t_Student
+DELETE FROm t_Teacher

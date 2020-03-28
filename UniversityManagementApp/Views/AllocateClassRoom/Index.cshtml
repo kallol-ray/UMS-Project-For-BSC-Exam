@@ -1,0 +1,199 @@
+﻿@{
+    ViewBag.Title = "Save";
+}
+
+<style>
+    label.error {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+<div class="wrapper">
+    <form id="allocateClassRoomForm" method="POST">
+        <fieldset class="main_form">
+            <legend>Allocate Classrooms</legend>
+
+
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Department</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="DepartmentCode" name="DepartmentCode">
+                        @{
+                            <option value=""> Select Department....</option>
+                            foreach (var aDepartment in @ViewBag.DepartmentList)
+                            {
+                                <option value=@aDepartment.Code> @aDepartment.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Course</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="CourseId" name="CourseId">
+                        @*'Populate From Ajax'*@
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">Room No.</label>
+                <div class="col-md-9">
+
+                    <select class="form-control" id="RoomId" name="RoomId">
+                        @{
+                            <option value=""> Select Room....</option>
+                            foreach (var aRoom in @ViewBag.RoomList)
+                            {
+                                <option value=@aRoom.Id> @aRoom.Name</option>
+                            }
+                        }
+                    </select>
+
+
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Day</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="DayName" name="DayName">
+                        <option value=""> Select Day....</option>
+                        <option value="Saturday">Saturday</option>
+                        <option value="Sunday">Sunday</option>
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                    </select>
+
+                </div>
+            </div>
+    <div class="form-group">
+        <label class="col-md-3 control-label">From</label>
+        <div class="col-md-3" align="center">
+            <input type="text" id="timeFrom" name="timeFrom" class="form-control" />
+        </div>
+        <div class="col-md-6">
+            <input type="radio" id="timeFromAMPM1" name="timeAMPMFROM" value="AM" />AM
+            <input type="radio" id="timeToAMPM2" name="timeAMPMFROM" value="PM" />PM
+        </div>
+    </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">To</label>
+                <div class="col-md-3" align="center">
+                    <input type="text" id="timeTo" name="timeTo" class="form-control" />
+                </div>
+                <div class="col-md-6">
+                    <input type="radio" id="timeTOAMPM3" name="timeAMPMTO" value="AM" />AM
+                    <input type="radio" id="timeTOAMPM4" name="timeAMPMTO" value="PM" />PM
+                </div>
+            </div>
+
+<div class="form-group">
+    <div class="col-md-12 text-right">
+        <button id="saveButton" type="submit" value="Save" class="btn btn-primary btn-lg">Allocate</button>
+    </div>
+</div>
+            <div class="show_msg"><label>@ViewBag.Message</label></div>
+        </fieldset>
+    </form>
+</div>
+
+
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#DepartmentCode").change(function() {
+                var departmentId = $("#DepartmentCode").val();
+                var json = { departmentCode: departmentId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseByDepartmentCode", "AllocateClassRoom")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function(data) {
+                        $('#CourseId').empty();
+                        $("#CourseId").append('<option value="">' + "Select Course....." + '</option>');
+                        $.each(data, function(key, value) {
+                            $("#CourseId").append('<option value=' + value.Id + '>' + value.Code + '</option>');
+                        });
+                    },
+                });
+            });
+
+            $("#timeFrom").keyup(function() {
+                var maxNumbOfWords = 5;
+                var name = $("#timeFrom").val();
+                if (name.length > 1 && name.length < 3) {
+                    if ($("#timeFrom").val() > 12) {
+                        $("#timeFrom").val(0);
+                        return false;
+                    }
+                    name = name + ":";
+                    $("#timeFrom").val(name);
+                    return false;
+                } else if (name.length > 4 && name.length < 6) {
+                    return false;
+                }
+                $("#timeFrom").val(name.substr(0, maxNumbOfWords));
+               
+
+            });
+
+
+            $("#timeTo").keyup(function() {
+                var maxNumbOfWords = 5;
+                var name = $("#timeTo").val();
+                if (name.length > 1 && name.length < 3) {
+                    if ($("#timeTo").val() > 12) {
+                        $("#timeTo").val(0);
+                        return false;
+                    }
+                    name = name + ":";
+                    $("#timeTo").val(name);
+                    return false;
+                } else if (name.length > 4 && name.length < 6) {
+                    return false;
+                }
+                $("#timeTo").val(name.substr(0, maxNumbOfWords));
+
+
+            });
+
+
+                $("#allocateClassRoomForm").validate({
+                    rules: {
+                        DepartmentCode: { required: true, },
+                        RoomId: "required",
+                        DayName: "required",
+                        CourseId: "required",
+                        timeFrom: "required",
+                        timeTo: "required",
+                        timeAMPMFROM: "required",
+                        timeAMPMTO: "required"
+
+            },
+                messages: {
+                    DepartmentCode: { required: "Please select department name", },
+                    RoomId: { required: "Please select room no", },
+                    DayName: { required: "Please select day", },
+                    CourseId: { required: "Please select a course" },
+                    timeFrom: { required: "Please add time start" },
+                    timeTo: { required: "Please add time end" },
+                    timeAMPMFROM: { required: "Select am or pm" },
+                    timeAMPMTO: { required: "Select am or pm" }
+
+                }
+            });
+        });
+
+
+    </script>
+   
+}

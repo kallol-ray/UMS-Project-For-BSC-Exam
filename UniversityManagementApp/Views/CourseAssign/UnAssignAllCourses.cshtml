@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Save";
+}
+
+<style>
+    label.error {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+<div class="wrapper">
+    <form id="allocateClassRoomForm" method="POST">
+        <fieldset class="main_form">
+            <legend>Unassign All Courses</legend>
+            <div class="form-group">
+                <div class="col-md-4"></div>
+                <div class="col-md-4">
+                    <button id="saveButton" type="submit" value="Unassign All Courses" class="btn btn-primary btn-lg">Unassign All Courses</button>
+                </div>
+                <div class="col-md-4"></div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-12 text-center">
+                    <div class="show_msg">
+                        <label id="message">
+                            
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+
+
+
+@section scripts
+{
+
+
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script>
+
+        $("#saveButton").on("click", function () {
+            var departmentId = $("#saveButton").val();
+            var json = { code: departmentId };
+
+            if (confirm("Are you sure you want unassign all courses ?"))
+            {
+                $.ajax(
+                    {
+                    type: "POST",
+                    url: '@Url.Action("UnAssignCourses", "CourseAssign")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        alert(data);
+                    },
+                    });
+            }
+            else
+            {
+                return false;
+            }
+
+        });
+
+
+    </script>
+
+}

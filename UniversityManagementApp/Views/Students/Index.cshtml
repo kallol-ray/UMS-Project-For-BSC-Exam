@@ -1,0 +1,21 @@
+﻿@model List<UniversityManagementApp.Models.Customer>
+@{
+    Layout = null;
+}
+
+    <h2>Html List in PDF</h2>
+    <table>
+        <tr>
+            <td>First Name</td>
+
+            <td>Last Name</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+
+                <td>@item.LastName</td>
+            </tr>
+        }
+    </table>

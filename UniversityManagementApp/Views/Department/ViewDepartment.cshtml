@@ -1,0 +1,43 @@
+﻿@model IEnumerable<UniversityManagementApp.Models.DepartmentModels>
+@{
+    ViewBag.Title = "ViewDepartment";
+    int i=1;
+}
+
+
+
+
+<div class="wrapper">
+    <form id="departMentSaveForm" method="POST">
+        <fieldset class="main_form">
+            <legend>View All Departments</legend>
+            
+            <table class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>SL#</th>
+                        <th>Code</th>
+                        <th class="td-actions">Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var aDepartment in @ViewBag.DepartmentList)
+                    {
+                        int j = i++;
+                        <tr>
+                            <td>@j</td>
+                            <td>@aDepartment.Code</td>
+                            <td>@aDepartment.Name</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            
+
+        </fieldset>
+    </form>
+</div>
+
+
+
+

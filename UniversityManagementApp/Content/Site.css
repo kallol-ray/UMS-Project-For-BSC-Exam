@@ -1,0 +1,66 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.wrapper{width: 60%;margin: 0 auto;min-height:500px;}
+.form-group {overflow: hidden;margin-bottom: 5px !important;}
+fieldset legend{color:#fff;background:#337AB7;padding: 10px;}
+.main_form{margin-top: 20px;border: 1px solid #ddd;}
+.wrapper table{ margin-top: 20px;}
+.wrapper table thead{background:#337AB7;color: #ffffff;}
+
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+select.form-control {-webkit-transition: height 0.3s ease-in;
+            -moz-transition: height 0.3s ease-in;
+            -o-transition: height 0.3s ease-in;
+            -ms-transition: height 0.3s ease-in;
+            transition: height 0.3s ease-in;}
+select.form-control option {-webkit-transition: background-color 0.3s ease;
+            -moz-transition: background-color 0.3s ease;
+            -o-transition: background-color 0.3s ease;
+            -ms-transition: background-color 0.3s ease;
+            transition: background-color 0.3s ease;
+                }
+
+@media all and (max-width: 699px) and (min-width: 320px){
+    .wrapper{width: 90%;margin: 0 auto;}
+}
+.navbar-inverse {background-color: #006cca;border-color: #006CCA;}
+.navbar-inverse .navbar-nav > li > a {color: #fff;}
+.navbar-inverse .navbar-brand {color: #fff;}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #006cca;
+}
+.navbar-inverse .navbar-nav > .dropdown > a .caret {border-top-color: #FFFFFF;border-bottom-color: #999999;}
+.logo {width: 125px;}
+.show_msg {text-align:center;text-transform:uppercase;font-weight:700;color:#000;}

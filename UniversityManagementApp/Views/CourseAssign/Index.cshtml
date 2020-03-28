@@ -1,0 +1,216 @@
+﻿@{
+    ViewBag.Title = "Save";
+}
+
+
+<style>
+    label.error {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+
+<div class="wrapper">
+    <form id="CourseSaveForm" method="POST">
+        <fieldset class="main_form">
+            <legend>Course Assign To Teacher</legend>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Department</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="DepartmentCode" name="DepartmentCode">
+                        @{
+                            <option value=""> Select Department....</option>
+                            foreach (var aDepartment in @ViewBag.DepartmentList)
+                            {
+                                <option value=@aDepartment.Code> @aDepartment.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">Teacher Name</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="Id" name="Id">
+                        @*'Populate From Ajax'*@
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">Credit To Be Taken</label>
+                <div class="col-md-9">
+                    <input id="CredittobeTaken" type="text" name="CredittobeTaken" class="form-control" placeholder="<View>">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Remaining Credit</label>
+                <div class="col-md-9">
+                    <input id="RemainingCredit" type="text" name="RemainingCredit" class="form-control" placeholder="<View>">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Course Code</label>
+                <div class="col-md-9">
+                    <select class="form-control" id="CourseId" name="CourseId">
+                        @*'Populate From Ajax'*@
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Name</label>
+                <div class="col-md-9">
+                    <input id="CourseName" type="text" name="CourseName" class="form-control" placeholder="<View>">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-3 control-label" >Credit</label>
+                <div class="col-md-9">
+                    <input id="Credit" type="text" name="Credit" class="form-control" placeholder="<View>">
+                </div>
+            </div>
+           
+            <div class="form-group">
+                <div class="col-md-12 text-right">
+                    <button id="saveButton" type="submit" value="Save" class="btn btn-primary btn-lg">Assign</button>
+                </div>
+            </div>
+            <div class="show_msg"><label >@ViewBag.Message</label></div>
+        </fieldset>
+    </form>
+</div>
+
+
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-2.2.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+   
+    <script>
+        $(document).ready(function () {
+            var teacherAlreadyAssignCredit;
+            $("#DepartmentCode").change(function () {
+                var departmentId = $("#DepartmentCode").val();
+                var json = { departmentCode: departmentId };
+                $('#Id').empty();
+                $('#CourseId').empty();
+                $('#CredittobeTaken').val("");
+                $('#RemainingCredit').val("");
+                $('#Name').val("");
+                $('#CourseName').val("");
+                $('#Credit').val("");
+               
+
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetTeacherByDepartmentCode", "CourseAssign")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+
+                    success: function (teacherCourses)
+                    {
+                        $("#Id").append('<option value="">' + "Select Teacher....." + '</option>');
+                        $.each(teacherCourses.teachers, function (key, value)
+                        {
+                            $("#Id").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+                        });
+                        $("#CourseId").append('<option value="">' + "Select Course....." + '</option>');
+                        $.each(teacherCourses.courses, function (key, value) {
+                            $("#CourseId").append('<option value=' + value.Id + '>' + value.Code + '</option>');
+                        });
+                    },
+
+                });
+            });//End Of The Ajax Dropdown Call
+            $("#Id").change(function () {
+                var id = $("#Id").val();
+                var json = { id: id };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetTeacherCredit", "CourseAssign")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (getTeacherCreditAndRemainingCredit) {
+                        $("#CredittobeTaken").val(getTeacherCreditAndRemainingCredit.teachers);
+                        $("#RemainingCredit").val(getTeacherCreditAndRemainingCredit.remainingCredit);
+                        teacherAlreadyAssignCredit = getTeacherCreditAndRemainingCredit.teacherTotalCredit;
+                    },
+                });
+            });         
+
+            $("#CourseId").change(function () {
+                var courseId = $("#CourseId").val();
+                var json = { courseId: courseId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseNameByCourseId", "CourseAssign")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        $.each(data, function (key, value) {
+                            $("#CourseName").val(value.Name);
+                            $("#Credit").val(value.Credit);
+                        });
+                       
+                    },
+                });
+            });
+
+
+            $("#Credit").focus(function () {
+                $(this).blur();
+            });
+            $("#CredittobeTaken").focus(function () {
+                $(this).blur();
+            });
+            $("#CourseName").focus(function () {
+                $(this).blur();
+            });
+            $("#RemainingCredit").focus(function () {
+                $(this).blur();
+            });
+            $("#CredittobeTaken").focus(function () {
+                $(this).blur();
+            });
+            $("#CourseSaveForm").validate({
+                rules: {
+                    DepartmentCode: {required: true,},
+                    Name: "required",
+                    Id: "required",
+                    CourseId: "required"
+
+                },
+                messages: {
+                    DepartmentCode:{required: "Please select department name",},
+                    Name: { required: "Please add your department name", },
+                    Id: { required: "Please select teacher", },
+                    CourseId: { required: "Please select a course" }
+
+                }
+            });
+
+
+            $("#saveButton").on("click", function () {
+                var a = parseFloat(teacherAlreadyAssignCredit);
+                var b = parseFloat($('#Credit').val());
+                var c = a + b;
+                var d = parseFloat($('#CredittobeTaken').val());
+                if (c > d)
+               {
+                   
+                    if (confirm("Are you sure you want to Save this?"))
+                    {
+                    }
+                    else {
+                        return false;
+                    }
+
+                }
+               
+            });
+        });
+    </script>
+    }
